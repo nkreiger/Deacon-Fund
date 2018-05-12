@@ -1,0 +1,24 @@
+div.sectionTwo {
+    padding: 30px 15px;
+    padding-bottom: 60px;
+    border-bottom: 5px solid #8c6d2c; }
+  
+  img.homeImgMobile {
+    width: 250px;
+    display: block;
+    margin: auto;
+    border: 3px solid black; }
+  
+  div.small {
+    border: none;
+    margin-top: 50px; }
+  
+  .homeBtnCenter {
+    border: 3px solid black;
+    display: block;
+    margin: auto;
+    width: 150px;
+    background-color: #8c6d2c;
+    color: black;
+    font-weight: bold; }
+  

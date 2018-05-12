@@ -1,0 +1,12 @@
+div.aboutOne {
+    border-top: 3px solid black;
+    background-color: black;
+    padding-top: 15%; }
+  div.aboutHeader {
+    font-weight: bold;
+    color: #8c6d2c; }
+  div.execText {
+    text-align: center;
+    color: #8c6d2c;
+    line-height: 1.9rem;
+    padding: 15px 20%; }

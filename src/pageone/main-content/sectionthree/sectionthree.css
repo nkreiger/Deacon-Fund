@@ -1,0 +1,32 @@
+div.sectionThree {
+    background-color: black;
+    color: #8c6d2c; }
+  
+  h2.applyHead {
+    margin-top: 50px; }
+  
+  div.applyPadding {
+    padding: 50px; }
+  
+  .btnCenter {
+    display: block;
+    margin: auto; }
+  
+  div.downloadStyle {
+    background-color: grey;
+    display: block;
+    border-radius: 8px;
+    padding: 8px;
+    text-align: center;
+    cursor: pointer; }
+    div.downloadStyle:hover {
+      opacity: 0.8; }
+  
+  a.downloadApp {
+    text-decoration: none;
+    font-weight: bold;
+    color: white; }
+  
+  #fundApplyModal {
+    color: black; }
+  

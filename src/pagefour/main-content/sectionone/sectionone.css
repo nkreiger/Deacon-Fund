@@ -1,0 +1,14 @@
+div.contactOne {
+  border-top: 3px solid black;
+  background-color: black;
+  padding: 80px 15px;
+  padding-top: 15%;
+  color: #8c6d2c; }
+
+  button.contactSubmit {
+    display: block;
+    margin: auto;
+    background-color: #8c6d2c;
+    color: black;
+    font-weight: bold;
+    border: none; }

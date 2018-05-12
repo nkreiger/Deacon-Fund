@@ -1,0 +1,14 @@
+div.sectionOne {
+    background-color: black;
+    padding: 50px 15px;
+    padding-bottom: 80px;
+    color: #8c6d2c; 
+    border-bottom: 5px solid #8c6d2c;
+}
+  div.homeVideoText {
+    line-height: 2rem;
+    font-style: italic; }
+  div.homeVideoStyle {
+    border: 3px solid #8c6d2c; }
+  div.homeColOne, div.homeColTwo {
+    margin-top: 50px; }

@@ -1,0 +1,35 @@
+/* ############ Custom Footer Styles ############# */
+img.footerImg {
+    padding: 15px;
+    display: block;
+    margin: auto; }
+  
+  i.fa {
+    text-align: center;
+    display: block;
+    margin: auto; }
+  i.fas {
+    color: #ffffff; }
+  i.fa-facebook-square {
+    color: #3b5998; }
+  i.fa-google-plus-square {
+    color: #c32f10; }
+  i.fa-instagram {
+    color: #ffffff; }
+  i.fa-copyright {
+    color: #ffffff;
+    float: left;
+    margin-right: 5px; }
+  
+  div.socialWrapper {
+    margin: auto; }
+  .footerInner {
+    text-align: center;
+  }
+  span.copyright {
+    color: #ffffff; }
+  
+  div.footerInner {
+    display: block;
+    margin: auto; }
+  

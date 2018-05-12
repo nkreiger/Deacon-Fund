@@ -1,0 +1,27 @@
+/* ############# Custom MODAL Styles ############# */
+div.modal-content {
+    border-radius: 10px;
+    background-color: black;
+    padding: 10px;
+    color: #8c6d2c;
+    width: auto;
+    height: auto; }
+  
+  button.close {
+    color: #fff; }
+    button.close:hover {
+      color: #8c6d2c; }
+  
+  img.carouselImageEven {
+    border: 5px solid #8c6d2c;
+    display: block;
+    margin: auto; }
+  
+  img.carouselImageOdd {
+    border: 5px solid #fff;
+    display: block;
+    margin: auto; }
+  
+  .portfolioModel {
+    width: 700px;
+    height: 500px; }

@@ -1,0 +1,28 @@
+div.donateTwo {
+  padding: 50px;
+  border-top: 5px solid #8c6d2c; }
+div.donateCenter {
+  border: 3px solid black;
+  display: block;
+  margin: auto;
+  padding: 10px; }
+
+/* ############# Custom Donate Styles ############ */
+hr.donateSeparator {
+  width: 60%;
+  border: 2px dotted black; }
+
+div.thanksText {
+  font-style: italic;
+  padding: 30px;
+  padding-top: 60px; }
+
+button.donateButton {
+  display: block;
+  margin: auto; 
+}
+@media (max-width: 767px) {
+  div.donateCenter {
+    margin-top: 15px;
+  }
+}
