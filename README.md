@@ -2,7 +2,7 @@
 Deacon Investment Club Website
 
 Hosted at:
-http://deaconfund.groups.wfu.edu/
+http://deacon-fund.com
 
 This project is deployed with react front-end, node.js, and hosted through Heroku. 
 
